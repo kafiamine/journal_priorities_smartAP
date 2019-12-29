@@ -1,0 +1,1992 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	32
+<table>
+Table-throughput-c4	20	9	12/11/18 21:59
+geometry	127	-9	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	8.1	0	8.1	4.07802	8.1	4.07802	7.75	4.0673
+1	10	14.45	0	14.45	5.80678	14.45	5.80678	14.1	5.83046
+2	15	21.4	0	21.4	7.88495	21.4	7.88495	21.05	7.85034
+3	20	27.9	0	27.9	8.2899	26.6789	7.57157	27.55	8.1998
+4	25	35.7	0	35.5875	10.88958	30.4049	8.21111	35.35	10.83868
+5	30	39	0	40.0983	11.4742	29.8451	7.03229	39.76	11.36624
+6	35	41.7	0	45.7495	10.18429	30.2997	6.0955	46.1299	10.51163
+7	40	42.55	0	52.4974	10.72223	32.2763	5.95197	52.8405	10.46979
+8	45	28.65	0	53.1909	8.97349	31.9496	5.16546	55.5752	9.22961
+9	50	12.85	0	53.1469	9.29422	31.6299	5.51324	55.6954	10.60605
+10	55	6.7	0	54.4221	9.34722	32.5532	5.38315	56.996	10.67482
+11	60	1.9	0	55.747	9.95677	33.4951	5.60672	57.7776	10.45994
+12	65	1.05	0	55.3528	10.17954	33.2126	5.69843	57.6549	10.32491
+13	70	0.05	0	53.5165	9.54824	32.4996	5.63392	56.7266	9.60111
+14	75	0.05	0	53.2995	9.90126	32.2844	5.89832	54.9823	9.24816
+15	80	0	0	54.8699	9.50272	32.9053	5.48514	55.4845	8.59384
+16	85	0	0	54.8264	7.96493	32.8969	4.83399	55.395	7.9074
+17	90	0	0	56.1277	7.69263	33.5008	4.54251	56.7807	7.46253
+18	95	0	0	55.7677	7.97713	33.2424	4.7671	56.2866	7.82947
+19	100	0	0	55.4615	7.35368	33.15	4.41694	55.9991	7.51962
+</data>
+</table>
+<table>
+table_deficit_classes	20	33	12/11/18 22:04
+geometry	236	27	1029	500	hidden
+header	1[X]	Prio-c1[Y]	3[Y]	4[Y]	5[Y]	6[Y]	7[Y]	8[Y]	9[Y]	Prio-c2[Y]	11[Y]	12[Y]	13[Y]	14[Y]	15[Y]	16[Y]	17[Y]	Prio-c3[Y]	19[Y]	20[Y]	21[Y]	22[Y]	23[Y]	24[Y]	25[Y]	Prio-c4[Y]	27[Y]	28[Y]	29[Y]	30[Y]	31[Y]	32[Y]	33[Y]
+ColWidth	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Comments																																		
+WindowLabel	/home/kafi/Dropbox/draft_paper/Association_Alex/V4_priority/offline/fix/v1/deficit/plot_deficit_classes	2
+<data>
+0	5	0	0	0	0	0	0	-1.05	0.99411	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-0.35	0.6508
+1	10	0	0	0	0	0	0	-1.05	0.99411	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-0.35	0.6508
+2	15	0	0	0	0	0	0	-1.05	0.99411	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-0.35	0.6508
+3	20	0	0	-0.0834	0.15508	-0.7064	0.87965	-1.05	0.99411	0	0	-0.0834	0.15508	-1.3826	1.74389	0	0	0	0	-0.0834	0.15508	-1.0898	1.48436	0	0	0	0	0	0	-1.2211	1.51688	-0.35	0.6508
+4	25	0	0	-0.4767	0.50152	-4.3523	3.24949	-1.075	1.01856	0	0	-0.2838	0.36112	-3.7476	3.15839	0	0	0	0	-0.2267	0.28103	-4.0548	3.48471	-0.025	0.04649	0	0	-0.1125	0.20918	-5.2951	4.29929	-0.35	0.6508
+5	30	0	0	-0.6868	0.98206	-10.4486	5.49504	-1.19	1.10134	0	0	-0.5817	0.99845	-10.3649	3.93617	-0.32	0.40125	0	0	-1.03	1.9152	-9.1315	5.77483	-0.4	0.69366	-1.65	0	-0.5517	0.94284	-10.8049	6.33266	-0.89	1.03739
+6	35	0	0	-1.4499	1.83989	-17.2128	6.05349	-2.2817	2.38744	0	0	-1.3159	1.44374	-19.0391	4.8006	-1.2967	1.47118	0	0	-2.6331	4.01252	-15.2448	8.62642	-3.0517	5.0797	-6.05	0	-2.0005	2.8319	-17.4503	6.52796	-1.6201	1.75621
+7	40	0	0	-4.8705	3.2046	-22.8139	8.39616	-4.4933	4.55499	0	0	-4.1182	2.42391	-26.2431	5.95243	-3.5804	1.93138	-0.5	0	-5.7076	6.13009	-20.8207	9.37998	-5.7168	6.99461	-15.1	0	-5.1526	4.65944	-25.3737	7.57888	-4.8095	3.22896
+8	45	0	0	-9.2963	4.2178	-29.4409	9.14218	-9.7544	4.78936	0	0	-11.2095	3.26387	-36.6757	7.32368	-11.3685	3.33021	-5.75	0	-9.8867	8.59338	-27.235	12.05112	-11.3517	10.02626	-35.45	0	-10.9091	5.601	-32.1504	7.74233	-8.5248	3.79467
+9	50	0	0	-16.1058	5.3855	-37.2251	10.58605	-17.0104	5.88459	0	0	-18.9515	4.91714	-43.3856	9.24416	-19.0534	5.1788	-10.65	0	-15.8938	9.14625	-33.3172	12.01393	-17.4328	10.42951	-57.35	0	-17.0531	5.69053	-38.5701	8.50018	-14.5046	4.43749
+10	55	0	0	-21.3868	7.72359	-42.3636	12.43778	-22.6339	7.22545	0	0	-25.3074	5.98136	-48.4952	9.47248	-24.7931	5.58852	-20.25	0	-21.2778	11.04596	-39.7503	13.40956	-23.1179	12.05077	-71.4	0	-23.6779	6.72299	-45.5468	9.97944	-21.104	6.01511
+11	60	0	0	-28.8904	9.31592	-49.2517	13.46597	-29.231	9.0459	-1.45	0	-33.1173	7.78277	-56.2305	10.89411	-32.7239	7.18592	-34.15	0	-27.4394	11.89405	-46.2121	14.57513	-29.5209	13.20087	-85.45	0	-31.603	8.64681	-53.8549	12.47257	-29.5724	8.48304
+12	65	0	0	-35.9856	10.75548	-56.0832	14.4417	-37.2254	11.02901	-4.6	0	-40.6621	8.81041	-63.3888	12.05259	-40.2535	9.03085	-51.6	0	-33.8577	11.73143	-53.3877	13.89809	-35.3251	13.06553	-92.55	0	-38.2472	10.76169	-60.3874	14.65794	-35.9451	10.71331
+13	70	0	0	-42.6016	11.52593	-63.0449	14.55841	-44.5584	11.72968	-6.8	0	-47.6819	9.71042	-70.0939	12.72526	-46.5186	10.2237	-71.55	0	-41.5336	11.70407	-62.1686	13.57153	-43.9498	12.20121	-99.35	0	-45.8835	11.52662	-66.9004	14.79922	-42.6734	11.3354
+14	75	0	0	-48.7821	11.71633	-69.1109	14.63205	-50.9038	11.19996	-15.85	0	-57.9495	12.9386	-80.6908	15.77195	-56.5073	13.52452	-86.5	0	-48.8673	12.08413	-69.2792	13.70907	-49.8744	12.16557	-104.75	0	-51.5005	11.93928	-72.5156	15.44342	-49.8177	12.24535
+15	80	0	0	-53.8992	12.02399	-74.0408	14.44073	-55.9595	11.26966	-21.15	0	-64.1804	14.23363	-86.0336	16.86648	-62.2829	14.65218	-97.9	0	-55.8423	11.82043	-76.3856	13.51459	-56.2976	11.70521	-116.1	0	-61.2301	12.10272	-83.1947	15.83249	-60.6155	12.79548
+16	85	0	0	-60.2213	12.61043	-80.6088	14.69352	-62.6614	11.5959	-30.35	0	-70.7325	14.52568	-92.6443	17.39792	-68.8878	14.89657	-108.15	0	-62.3775	11.74552	-82.6494	13.31157	-62.3541	12.0942	-122	0	-67.1736	12.16103	-89.1031	15.10605	-66.605	11.97789
+17	90	0	0	-67.6634	13.20428	-87.76	15.41865	-69.836	12.80304	-41.25	0	-77.8379	16.53077	-99.7436	19.5067	-76.7795	17.22131	-115.2	0	-67.0717	12.87315	-86.9872	14.50498	-66.6226	13.49722	-133.65	0	-77.5223	14.00779	-100.1492	16.90038	-76.8693	14.32825
+18	95	0	0	-74.1687	13.30297	-94.252	15.12346	-76.1375	13.02849	-54.85	0	-86.0305	16.96286	-108.2368	19.77708	-85.5816	17.72957	-121.2	0	-71.6127	12.70237	-91.3436	14.21355	-70.6275	13.02833	-138.75	0	-82.9823	14.80518	-105.5076	17.78988	-82.4634	15.19829
+19	100	0	0	-79.9242	14.31234	-100.08	16.42505	-82.1514	13.69167	-68.8	0	-93.7683	17.01134	-116.43	19.29988	-93.6492	17.49154	-127.55	0	-78.1173	11.89681	-97.49	13.24819	-76.5612	11.99448	-144.65	0	-89.1885	14.18395	-111.5	16.94388	-88.6509	14.43511
+</data>
+</table>
+<table>
+Table-deficit-c1	20	9	12/11/18 22:07
+geometry	61	11	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	0	0	0	0	0	0	-1.05	0.99411
+1	10	0	0	0	0	0	0	-1.05	0.99411
+2	15	0	0	0	0	0	0	-1.05	0.99411
+3	20	0	0	-0.0834	0.15508	-0.7064	0.87965	-1.05	0.99411
+4	25	0	0	-0.4767	0.50152	-4.3523	3.24949	-1.075	1.01856
+5	30	0	0	-0.6868	0.98206	-10.4486	5.49504	-1.19	1.10134
+6	35	0	0	-1.4499	1.83989	-17.2128	6.05349	-2.2817	2.38744
+7	40	0	0	-4.8705	3.2046	-22.8139	8.39616	-4.4933	4.55499
+8	45	0	0	-9.2963	4.2178	-29.4409	9.14218	-9.7544	4.78936
+9	50	0	0	-16.1058	5.3855	-37.2251	10.58605	-17.0104	5.88459
+10	55	0	0	-21.3868	7.72359	-42.3636	12.43778	-22.6339	7.22545
+11	60	0	0	-28.8904	9.31592	-49.2517	13.46597	-29.231	9.0459
+12	65	0	0	-35.9856	10.75548	-56.0832	14.4417	-37.2254	11.02901
+13	70	0	0	-42.6016	11.52593	-63.0449	14.55841	-44.5584	11.72968
+14	75	0	0	-48.7821	11.71633	-69.1109	14.63205	-50.9038	11.19996
+15	80	0	0	-53.8992	12.02399	-74.0408	14.44073	-55.9595	11.26966
+16	85	0	0	-60.2213	12.61043	-80.6088	14.69352	-62.6614	11.5959
+17	90	0	0	-67.6634	13.20428	-87.76	15.41865	-69.836	12.80304
+18	95	0	0	-74.1687	13.30297	-94.252	15.12346	-76.1375	13.02849
+19	100	0	0	-79.9242	14.31234	-100.08	16.42505	-82.1514	13.69167
+</data>
+</table>
+<table>
+Table-deficit-c2	20	9	12/11/18 22:07
+geometry	151	65	1047	447	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	0	0	0	0	0	0	0	0
+1	10	0	0	0	0	0	0	0	0
+2	15	0	0	0	0	0	0	0	0
+3	20	0	0	-0.0834	0.15508	-1.3826	1.74389	0	0
+4	25	0	0	-0.2838	0.36112	-3.7476	3.15839	0	0
+5	30	0	0	-0.5817	0.99845	-10.3649	3.93617	-0.32	0.40125
+6	35	0	0	-1.3159	1.44374	-19.0391	4.8006	-1.2967	1.47118
+7	40	0	0	-4.1182	2.42391	-26.2431	5.95243	-3.5804	1.93138
+8	45	0	0	-11.2095	3.26387	-36.6757	7.32368	-11.3685	3.33021
+9	50	0	0	-18.9515	4.91714	-43.3856	9.24416	-19.0534	5.1788
+10	55	0	0	-25.3074	5.98136	-48.4952	9.47248	-24.7931	5.58852
+11	60	-1.45	0	-33.1173	7.78277	-56.2305	10.89411	-32.7239	7.18592
+12	65	-4.6	0	-40.6621	8.81041	-63.3888	12.05259	-40.2535	9.03085
+13	70	-6.8	0	-47.6819	9.71042	-70.0939	12.72526	-46.5186	10.2237
+14	75	-15.85	0	-57.9495	12.9386	-80.6908	15.77195	-56.5073	13.52452
+15	80	-21.15	0	-64.1804	14.23363	-86.0336	16.86648	-62.2829	14.65218
+16	85	-30.35	0	-70.7325	14.52568	-92.6443	17.39792	-68.8878	14.89657
+17	90	-41.25	0	-77.8379	16.53077	-99.7436	19.5067	-76.7795	17.22131
+18	95	-54.85	0	-86.0305	16.96286	-108.2368	19.77708	-85.5816	17.72957
+19	100	-68.8	0	-93.7683	17.01134	-116.43	19.29988	-93.6492	17.49154
+</data>
+</table>
+<table>
+Table-deficit-c3	20	9	12/11/18 22:07
+geometry	98	15	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	0	0	0	0	0	0	0	0
+1	10	0	0	0	0	0	0	0	0
+2	15	0	0	0	0	0	0	0	0
+3	20	0	0	-0.0834	0.15508	-1.0898	1.48436	0	0
+4	25	0	0	-0.2267	0.28103	-4.0548	3.48471	-0.025	0.04649
+5	30	0	0	-1.03	1.9152	-9.1315	5.77483	-0.4	0.69366
+6	35	0	0	-2.6331	4.01252	-15.2448	8.62642	-3.0517	5.0797
+7	40	-0.5	0	-5.7076	6.13009	-20.8207	9.37998	-5.7168	6.99461
+8	45	-5.75	0	-9.8867	8.59338	-27.235	12.05112	-11.3517	10.02626
+9	50	-10.65	0	-15.8938	9.14625	-33.3172	12.01393	-17.4328	10.42951
+10	55	-20.25	0	-21.2778	11.04596	-39.7503	13.40956	-23.1179	12.05077
+11	60	-34.15	0	-27.4394	11.89405	-46.2121	14.57513	-29.5209	13.20087
+12	65	-51.6	0	-33.8577	11.73143	-53.3877	13.89809	-35.3251	13.06553
+13	70	-71.55	0	-41.5336	11.70407	-62.1686	13.57153	-43.9498	12.20121
+14	75	-86.5	0	-48.8673	12.08413	-69.2792	13.70907	-49.8744	12.16557
+15	80	-97.9	0	-55.8423	11.82043	-76.3856	13.51459	-56.2976	11.70521
+16	85	-108.15	0	-62.3775	11.74552	-82.6494	13.31157	-62.3541	12.0942
+17	90	-115.2	0	-67.0717	12.87315	-86.9872	14.50498	-66.6226	13.49722
+18	95	-121.2	0	-71.6127	12.70237	-91.3436	14.21355	-70.6275	13.02833
+19	100	-127.55	0	-78.1173	11.89681	-97.49	13.24819	-76.5612	11.99448
+</data>
+</table>
+<table>
+Table-deficit-c4	20	9	12/11/18 22:08
+geometry	69	13	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	111	62	56	68	72	76	72	68	72	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	0	0	0	0	0	0	-0.35	0.6508
+1	10	0	0	0	0	0	0	-0.35	0.6508
+2	15	0	0	0	0	0	0	-0.35	0.6508
+3	20	0	0	0	0	-1.2211	1.51688	-0.35	0.6508
+4	25	0	0	-0.1125	0.20918	-5.2951	4.29929	-0.35	0.6508
+5	30	-1.65	0	-0.5517	0.94284	-10.8049	6.33266	-0.89	1.03739
+6	35	-6.05	0	-2.0005	2.8319	-17.4503	6.52796	-1.6201	1.75621
+7	40	-15.1	0	-5.1526	4.65944	-25.3737	7.57888	-4.8095	3.22896
+8	45	-35.45	0	-10.9091	5.601	-32.1504	7.74233	-8.5248	3.79467
+9	50	-57.35	0	-17.0531	5.69053	-38.5701	8.50018	-14.5046	4.43749
+10	55	-71.4	0	-23.6779	6.72299	-45.5468	9.97944	-21.104	6.01511
+11	60	-85.45	0	-31.603	8.64681	-53.8549	12.47257	-29.5724	8.48304
+12	65	-92.55	0	-38.2472	10.76169	-60.3874	14.65794	-35.9451	10.71331
+13	70	-99.35	0	-45.8835	11.52662	-66.9004	14.79922	-42.6734	11.3354
+14	75	-104.75	0	-51.5005	11.93928	-72.5156	15.44342	-49.8177	12.24535
+15	80	-116.1	0	-61.2301	12.10272	-83.1947	15.83249	-60.6155	12.79548
+16	85	-122	0	-67.1736	12.16103	-89.1031	15.10605	-66.605	11.97789
+17	90	-133.65	0	-77.5223	14.00779	-100.1492	16.90038	-76.8693	14.32825
+18	95	-138.75	0	-82.9823	14.80518	-105.5076	17.78988	-82.4634	15.19829
+19	100	-144.65	0	-89.1885	14.18395	-111.5	16.94388	-88.6509	14.43511
+</data>
+</table>
+<multiLayer>
+Graph-deficit-c1	1	1	12/11/18 22:12
+geometry	442	70	553	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	535	404
+<PageGeometry>0.00917431	0.0119332	0.981651	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated deficit (Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-deficit-c1_Nb-clients	Table-deficit-c1_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c1_Nb-clients	Table-deficit-c1_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c1_Nb-clients	Table-deficit-c1_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c1_Nb-clients	Table-deficit-c1_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-deficit-c1_Nb-clients	Table-deficit-c1_Prio	Table-deficit-c1_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-deficit-c1_Nb-clients	Table-deficit-c1_MABU	Table-deficit-c1_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-deficit-c1_Nb-clients	Table-deficit-c1_RSSI	Table-deficit-c1_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-deficit-c1_Nb-clients	Table-deficit-c1_LL	Table-deficit-c1_7	1	8	#000000	1	1	1	0
+scale	0	-120	20	0	8	5	0	0
+scale	1	-120	20	0	8	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.69690265486726</x>
+<y>-81.0625</y>
+<right>27.0644391408115</right>
+<bottom>2.20735785953177</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph-deficit-c2	1	1	15/11/18 09:15
+geometry	460	14	553	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	535	404
+<PageGeometry>0.00917431	0.0119332	0.981651	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated deficit (Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-deficit-c2_Nb-clients	Table-deficit-c2_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c2_Nb-clients	Table-deficit-c2_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c2_Nb-clients	Table-deficit-c2_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c2_Nb-clients	Table-deficit-c2_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-deficit-c2_Nb-clients	Table-deficit-c2_Prio	Table-deficit-c2_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-deficit-c2_Nb-clients	Table-deficit-c2_MABU	Table-deficit-c2_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-deficit-c2_Nb-clients	Table-deficit-c2_RSSI	Table-deficit-c2_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-deficit-c2_Nb-clients	Table-deficit-c2_LL	Table-deficit-c2_7	1	8	#000000	1	1	1	0
+scale	0	-140	20	0	9	5	0	0
+scale	1	-140	20	0	9	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>78.053097345133</x>
+<y>19</y>
+<right>104.535398230088</right>
+<bottom>-20.5</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph-deficit-c3	1	1	15/11/18 09:17
+geometry	420	16	553	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	535	404
+<PageGeometry>0.00917431	0.0119332	0.981651	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated deficit (Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-deficit-c3_Nb-clients	Table-deficit-c3_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c3_Nb-clients	Table-deficit-c3_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c3_Nb-clients	Table-deficit-c3_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c3_Nb-clients	Table-deficit-c3_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-deficit-c3_Nb-clients	Table-deficit-c3_Prio	Table-deficit-c3_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-deficit-c3_Nb-clients	Table-deficit-c3_MABU	Table-deficit-c3_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-deficit-c3_Nb-clients	Table-deficit-c3_RSSI	Table-deficit-c3_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-deficit-c3_Nb-clients	Table-deficit-c3_LL	Table-deficit-c3_7	1	8	#000000	1	1	1	0
+scale	0	-140	20	0	9	5	0	0
+scale	1	-140	20	0	9	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>77.820796460177</x>
+<y>19</y>
+<right>104.303097345133</right>
+<bottom>-20.5</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph-deficit-c4	1	1	15/11/18 09:26
+geometry	486	18	553	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	535	404
+<PageGeometry>0.00917431	0.0119332	0.981651	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated deficit (Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-deficit-c4_Nb-clients	Table-deficit-c4_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c4_Nb-clients	Table-deficit-c4_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c4_Nb-clients	Table-deficit-c4_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit-c4_Nb-clients	Table-deficit-c4_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-deficit-c4_Nb-clients	Table-deficit-c4_Prio	Table-deficit-c4_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-deficit-c4_Nb-clients	Table-deficit-c4_MABU	Table-deficit-c4_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-deficit-c4_Nb-clients	Table-deficit-c4_RSSI	Table-deficit-c4_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-deficit-c4_Nb-clients	Table-deficit-c4_LL	Table-deficit-c4_7	1	8	#000000	1	1	1	0
+scale	0	-160	20	0	10	5	0	0
+scale	1	-160	20	0	10	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>77.356194690265</x>
+<y>18.875</y>
+<right>103.838495575221</right>
+<bottom>-25.5625</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<table>
+Table-deficit	20	9	15/11/18 09:36
+geometry	88	18	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	0	0	0	0	0	0	-1.4	1.0627466302
+1	10	0	0	0	0	0	0	-1.4	1.0627466302
+2	15	0	0	0	0	0	0	-1.4	1.0627466302
+3	20	0	0	-0.2502	0.465226699898	-4.3999	5.46127487094	-1.4	1.0627466302
+4	25	0	0	-1.0997	1.08036025138	-17.4498	12.6884423882	-1.45	1.1039690213
+5	30	-1.65	3.0680417859	-2.8502	4.80509341802	-40.7499	17.4098742664	-2.8	2.7725514603
+6	35	-6.05	10.1414138856	-7.3994	10.0140902075	-68.947	18.0403667263	-8.2502	9.87675098047
+7	40	-15.6	16.2087378411	-19.8489	15.7411134854	-95.2514	18.0168167998	-18.6	15.147471704
+8	45	-41.2	18.5793113328	-41.3016	18.5808790556	-125.502	18.6604029689	-40.9994	18.6634232216
+9	50	-68	17.0936273506	-68.0042	17.0951499883	-152.498	17.0953360099	-68.0012	17.0929531881
+10	55	-91.65	18.0570418508	-91.6499	18.0568146439	-176.1559	18.0520408913	-91.6489	18.0570211088
+11	60	-121.05	18.9220972305	-121.0501	18.9204155487	-205.5492	18.9219057064	-121.0482	18.9223896829
+12	65	-148.75	21.903493283	-148.7526	21.9017991408	-233.2471	21.9045070478	-148.7491	21.903656341
+13	70	-177.7	23.5975371935	-177.7006	23.598315432	-262.2078	23.6008419047	-177.7002	23.5978878188
+14	75	-207.1	26.1032708755	-207.0994	26.1045634553	-291.5965	26.1009199936	-207.1032	26.1025295229
+15	80	-235.15	25.3257674395	-235.152	25.3234933809	-319.6547	25.3241304414	-235.1555	25.3242186125
+16	85	-260.5	26.1151153166	-260.5049	26.1150257067	-345.0056	26.1174826648	-260.5083	26.1135107566
+17	90	-290.1	27.0617733048	-290.0953	27.064152044	-374.64	27.0617733048	-290.1074	27.0603955604
+18	95	-314.8	26.5578915127	-314.7942	26.5585601068	-399.34	26.5578915127	-314.81	26.5577300046
+19	100	-341	23.0955874573	-340.9983	23.0947120856	-425.5	23.0955874573	-341.0127	23.0935977131
+</data>
+</table>
+<multiLayer>
+Graph-deficit	1	1	15/11/18 09:37
+geometry	342	21	553	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	535	404
+<PageGeometry>0.00917431	0.0119332	0.981651	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated deficit (Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-deficit_Nb-clients	Table-deficit_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit_Nb-clients	Table-deficit_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit_Nb-clients	Table-deficit_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-deficit_Nb-clients	Table-deficit_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-deficit_Nb-clients	Table-deficit_Prio	Table-deficit_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-deficit_Nb-clients	Table-deficit_MABU	Table-deficit_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-deficit_Nb-clients	Table-deficit_RSSI	Table-deficit_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-deficit_Nb-clients	Table-deficit_LL	Table-deficit_7	1	8	#000000	1	1	1	0
+scale	0	-500	100	0	7	5	0	0
+scale	1	-500	100	0	7	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>77.356194690265</x>
+<y>96.25</y>
+<right>103.838495575221</right>
+<bottom>-51.875</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<table>
+Table-throughput-c1	20	9	15/11/18 09:40
+geometry	190	13	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	8.05	0	8.05	2.68545	8.05	2.68545	7	2.41247
+1	10	16.85	0	16.85	5.31382	16.85	5.31382	15.8	5.30686
+2	15	25.6	0	25.6	7.5502	25.6	7.5502	24.55	7.62947
+3	20	31.75	0	31.6666	10.39821	31.0436	10.46372	30.7	10.42234
+4	25	39.35	0	38.8733	10.8229	34.9977	9.58173	38.275	11.13248
+5	30	44.95	0	44.2632	12.41039	34.5014	8.49637	43.76	12.47245
+6	35	50.4	0	48.9501	12.71508	33.1872	7.86468	48.1183	13.05362
+7	40	54.9	0	50.0295	14.75846	32.0861	8.04099	50.4067	15.58906
+8	45	60.7	0	51.4037	13.4377	31.2591	7.36036	50.9456	14.01724
+9	50	70.05	0	53.9442	12.67237	32.8249	6.85191	53.0396	13.56597
+10	55	74.95	0	53.5632	11.77162	32.5864	6.44748	52.3161	12.70097
+11	60	81.85	0	52.9596	10.46434	32.5983	5.66218	52.619	11.1936
+12	65	88.6	0	52.6144	9.17739	32.5168	4.77208	51.3746	9.57955
+13	70	96	0	53.3984	7.50857	32.9551	3.86629	51.4416	8.28019
+14	75	101.95	0	53.1679	7.75195	32.8391	4.32552	51.0462	8.7092
+15	80	106.25	0	52.3508	6.75864	32.2092	3.90304	50.2905	7.7377
+16	85	113.15	0	52.9287	6.22654	32.5412	3.4056	50.4886	7.41128
+17	90	120.25	0	52.5866	5.65654	32.49	2.92077	50.414	6.63822
+18	95	126.4	0	52.2313	5.19753	32.148	2.76705	50.2625	6.26587
+19	100	132.45	0	52.5258	5.06554	32.37	2.70736	50.2986	6.40901
+</data>
+</table>
+<table>
+Table-throughput-c2	20	9	15/11/18 09:41
+geometry	143	22	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	5.25	0	5.25	4.38105	5.25	4.38105	5.25	4.38105
+1	10	12.9	0	12.9	6.33113	12.9	6.33113	12.9	6.33113
+2	15	18.15	0	18.15	7.03562	18.15	7.03562	18.15	7.03562
+3	20	33.4	0	33.3166	8.28742	32.0174	7.66868	33.4	8.36142
+4	25	37.2	0	36.9162	9.27988	33.4524	8.35513	37.2	9.43064
+5	30	47.45	0	46.8683	8.47746	37.0851	7.49675	47.13	8.4191
+6	35	56.2	0	54.8841	9.4454	37.1609	6.49323	54.9033	9.34102
+7	40	62.8	0	58.6818	11.64365	36.5569	6.21911	59.2196	10.68033
+8	45	74.2	0	62.9905	10.7297	37.5243	5.5476	62.8315	10.82751
+9	50	79.15	0	60.1985	10.38255	35.7644	5.4665	60.0966	10.71062
+10	55	82.45	0	57.1426	8.39432	33.9548	4.2858	57.6569	9.05784
+11	60	88.45	0	56.7827	7.32754	33.6695	3.60677	57.1761	7.75369
+12	65	92.5	0	56.4379	7.30734	33.7112	3.74129	56.8465	7.57375
+13	70	96.45	0	55.5681	6.7886	33.1561	3.49167	56.7314	7.04777
+14	75	98.5	0	56.4005	6.63399	33.6592	3.47453	57.8427	6.64001
+15	80	98.4	0	55.3696	5.9819	33.5164	2.9285	57.2671	5.93886
+16	85	95.5	0	55.1175	6.17689	33.2057	3.1179	56.9622	5.90866
+17	90	91.85	0	55.2621	6.5708	33.3564	3.40688	56.3205	5.85992
+18	95	87.45	0	56.2695	6.1215	34.0632	3.20522	56.7184	5.30961
+19	100	81.95	0	56.9817	5.35692	34.32	2.90963	57.1008	4.63171
+</data>
+</table>
+<table>
+Table-throughput-c3	20	9	15/11/18 09:41
+geometry	157	15	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	4.15	0	4.15	2.84048	4.15	2.84048	4.15	2.84048
+1	10	9.1	0	9.1	3.89986	9.1	3.89986	9.1	3.89986
+2	15	17.4	0	17.4	5.33322	17.4	5.33322	17.4	5.33322
+3	20	24.5	0	24.4166	7.02317	23.4102	6.20595	24.5	6.99174
+4	25	31.35	0	31.1233	6.47055	27.2952	4.15028	31.325	6.44496
+5	30	37.7	0	36.67	6.45076	28.5685	2.96099	37.3	7.22274
+6	35	44.6	0	41.9669	7.85004	29.3552	3.16397	41.5483	7.00584
+7	40	49.4	0	44.1924	7.67856	29.0793	4.27073	44.1832	6.60712
+8	45	50.75	0	46.6133	7.98075	29.265	4.58421	45.1483	7.13407
+9	50	52.45	0	47.2062	7.17844	29.7828	4.07891	45.6672	6.54521
+10	55	50.4	0	49.3722	6.88991	30.8997	4.1474	47.5321	7.06124
+11	60	42.3	0	49.0106	7.17697	30.2379	3.97513	46.9291	6.68371
+12	65	32.35	0	50.0923	5.83988	30.5623	3.16594	48.6249	5.86357
+13	70	22	0	52.0164	5.54222	31.3814	3.1175	49.6002	5.96758
+14	75	14	0	51.6327	4.98193	31.2208	2.87008	50.6256	4.98561
+15	80	9.85	0	51.9077	4.9545	31.3644	2.92982	51.4524	5.12393
+16	85	5.85	0	51.6225	5.10606	31.3506	3.13959	51.6459	5.0097
+17	90	2.4	0	50.5283	5.24558	30.6128	3.344	50.9774	5.06875
+18	95	0.65	0	50.2373	4.882	30.5064	3.01092	51.2225	5.07721
+19	100	0.1	0	49.5327	4.22474	30.16	2.71574	51.0888	4.63561
+</data>
+</table>
+<table>
+Table10	20	9	15/11/18 09:46
+geometry	-427	266	1047	472	
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5								
+1	10								
+2	15								
+3	20								
+4	25								
+5	30								
+6	35								
+7	40								
+8	45								
+9	50								
+10	55								
+11	60								
+12	65								
+13	70								
+14	75								
+15	80								
+16	85								
+17	90								
+18	95								
+19	100								
+</data>
+</table>
+<table>
+table_throughput_classes	20	33	15/11/18 09:56
+geometry	68	10	1166	488	hidden
+header	1[X]	Prio-c1[Y]	3[Y]	4[Y]	5[Y]	6[Y]	7[Y]	8[Y]	9[Y]	Prio-c2[Y]	11[Y]	12[Y]	13[Y]	14[Y]	15[Y]	16[Y]	17[Y]	Prio-c3[Y]	19[Y]	20[Y]	21[Y]	22[Y]	23[Y]	24[Y]	25[Y]	Prio-c4[Y]	27[Y]	28[Y]	29[Y]	30[Y]	31[Y]	32[Y]	33[Y]
+ColWidth	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Comments																																		
+WindowLabel	/home/kafi/Dropbox/draft_paper/Association_Alex/V4_priority/offline/fix/v1/throughput/plot_throughput_classes	2
+<data>
+0	5	8.05	0	8.05	2.68545	8.05	2.68545	7	2.41247	5.25	0	5.25	4.38105	5.25	4.38105	5.25	4.38105	4.15	0	4.15	2.84048	4.15	2.84048	4.15	2.84048	8.1	0	8.1	4.07802	8.1	4.07802	7.75	4.0673
+1	10	16.85	0	16.85	5.31382	16.85	5.31382	15.8	5.30686	12.9	0	12.9	6.33113	12.9	6.33113	12.9	6.33113	9.1	0	9.1	3.89986	9.1	3.89986	9.1	3.89986	14.45	0	14.45	5.80678	14.45	5.80678	14.1	5.83046
+2	15	25.6	0	25.6	7.5502	25.6	7.5502	24.55	7.62947	18.15	0	18.15	7.03562	18.15	7.03562	18.15	7.03562	17.4	0	17.4	5.33322	17.4	5.33322	17.4	5.33322	21.4	0	21.4	7.88495	21.4	7.88495	21.05	7.85034
+3	20	31.75	0	31.6666	10.39821	31.0436	10.46372	30.7	10.42234	33.4	0	33.3166	8.28742	32.0174	7.66868	33.4	8.36142	24.5	0	24.4166	7.02317	23.4102	6.20595	24.5	6.99174	27.9	0	27.9	8.2899	26.6789	7.57157	27.55	8.1998
+4	25	39.35	0	38.8733	10.8229	34.9977	9.58173	38.275	11.13248	37.2	0	36.9162	9.27988	33.4524	8.35513	37.2	9.43064	31.35	0	31.1233	6.47055	27.2952	4.15028	31.325	6.44496	35.7	0	35.5875	10.88958	30.4049	8.21111	35.35	10.83868
+5	30	44.95	0	44.2632	12.41039	34.5014	8.49637	43.76	12.47245	47.45	0	46.8683	8.47746	37.0851	7.49675	47.13	8.4191	37.7	0	36.67	6.45076	28.5685	2.96099	37.3	7.22274	39	0	40.0983	11.4742	29.8451	7.03229	39.76	11.36624
+6	35	50.4	0	48.9501	12.71508	33.1872	7.86468	48.1183	13.05362	56.2	0	54.8841	9.4454	37.1609	6.49323	54.9033	9.34102	44.6	0	41.9669	7.85004	29.3552	3.16397	41.5483	7.00584	41.7	0	45.7495	10.18429	30.2997	6.0955	46.1299	10.51163
+7	40	54.9	0	50.0295	14.75846	32.0861	8.04099	50.4067	15.58906	62.8	0	58.6818	11.64365	36.5569	6.21911	59.2196	10.68033	49.4	0	44.1924	7.67856	29.0793	4.27073	44.1832	6.60712	42.55	0	52.4974	10.72223	32.2763	5.95197	52.8405	10.46979
+8	45	60.7	0	51.4037	13.4377	31.2591	7.36036	50.9456	14.01724	74.2	0	62.9905	10.7297	37.5243	5.5476	62.8315	10.82751	50.75	0	46.6133	7.98075	29.265	4.58421	45.1483	7.13407	28.65	0	53.1909	8.97349	31.9496	5.16546	55.5752	9.22961
+9	50	70.05	0	53.9442	12.67237	32.8249	6.85191	53.0396	13.56597	79.15	0	60.1985	10.38255	35.7644	5.4665	60.0966	10.71062	52.45	0	47.2062	7.17844	29.7828	4.07891	45.6672	6.54521	12.85	0	53.1469	9.29422	31.6299	5.51324	55.6954	10.60605
+10	55	74.95	0	53.5632	11.77162	32.5864	6.44748	52.3161	12.70097	82.45	0	57.1426	8.39432	33.9548	4.2858	57.6569	9.05784	50.4	0	49.3722	6.88991	30.8997	4.1474	47.5321	7.06124	6.7	0	54.4221	9.34722	32.5532	5.38315	56.996	10.67482
+11	60	81.85	0	52.9596	10.46434	32.5983	5.66218	52.619	11.1936	88.45	0	56.7827	7.32754	33.6695	3.60677	57.1761	7.75369	42.3	0	49.0106	7.17697	30.2379	3.97513	46.9291	6.68371	1.9	0	55.747	9.95677	33.4951	5.60672	57.7776	10.45994
+12	65	88.6	0	52.6144	9.17739	32.5168	4.77208	51.3746	9.57955	92.5	0	56.4379	7.30734	33.7112	3.74129	56.8465	7.57375	32.35	0	50.0923	5.83988	30.5623	3.16594	48.6249	5.86357	1.05	0	55.3528	10.17954	33.2126	5.69843	57.6549	10.32491
+13	70	96	0	53.3984	7.50857	32.9551	3.86629	51.4416	8.28019	96.45	0	55.5681	6.7886	33.1561	3.49167	56.7314	7.04777	22	0	52.0164	5.54222	31.3814	3.1175	49.6002	5.96758	0.05	0	53.5165	9.54824	32.4996	5.63392	56.7266	9.60111
+14	75	101.95	0	53.1679	7.75195	32.8391	4.32552	51.0462	8.7092	98.5	0	56.4005	6.63399	33.6592	3.47453	57.8427	6.64001	14	0	51.6327	4.98193	31.2208	2.87008	50.6256	4.98561	0.05	0	53.2995	9.90126	32.2844	5.89832	54.9823	9.24816
+15	80	106.25	0	52.3508	6.75864	32.2092	3.90304	50.2905	7.7377	98.4	0	55.3696	5.9819	33.5164	2.9285	57.2671	5.93886	9.85	0	51.9077	4.9545	31.3644	2.92982	51.4524	5.12393	0	0	54.8699	9.50272	32.9053	5.48514	55.4845	8.59384
+16	85	113.15	0	52.9287	6.22654	32.5412	3.4056	50.4886	7.41128	95.5	0	55.1175	6.17689	33.2057	3.1179	56.9622	5.90866	5.85	0	51.6225	5.10606	31.3506	3.13959	51.6459	5.0097	0	0	54.8264	7.96493	32.8969	4.83399	55.395	7.9074
+17	90	120.25	0	52.5866	5.65654	32.49	2.92077	50.414	6.63822	91.85	0	55.2621	6.5708	33.3564	3.40688	56.3205	5.85992	2.4	0	50.5283	5.24558	30.6128	3.344	50.9774	5.06875	0	0	56.1277	7.69263	33.5008	4.54251	56.7807	7.46253
+18	95	126.4	0	52.2313	5.19753	32.148	2.76705	50.2625	6.26587	87.45	0	56.2695	6.1215	34.0632	3.20522	56.7184	5.30961	0.65	0	50.2373	4.882	30.5064	3.01092	51.2225	5.07721	0	0	55.7677	7.97713	33.2424	4.7671	56.2866	7.82947
+19	100	132.45	0	52.5258	5.06554	32.37	2.70736	50.2986	6.40901	81.95	0	56.9817	5.35692	34.32	2.90963	57.1008	4.63171	0.1	0	49.5327	4.22474	30.16	2.71574	51.0888	4.63561	0	0	55.4615	7.35368	33.15	4.41694	55.9991	7.51962
+</data>
+</table>
+<multiLayer>
+Graph-throughput-c1	1	1	15/11/18 10:05
+geometry	498	10	537	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	519	404
+<PageGeometry>0.0094518	0.0119332	0.981096	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated throughput(Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-throughput-c1_Nb-clients	Table-throughput-c1_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c1_Nb-clients	Table-throughput-c1_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c1_Nb-clients	Table-throughput-c1_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c1_Nb-clients	Table-throughput-c1_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-throughput-c1_Nb-clients	Table-throughput-c1_Prio	Table-throughput-c1_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-throughput-c1_Nb-clients	Table-throughput-c1_MABU	Table-throughput-c1_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-throughput-c1_Nb-clients	Table-throughput-c1_RSSI	Table-throughput-c1_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-throughput-c1_Nb-clients	Table-throughput-c1_LL	Table-throughput-c1_7	1	8	#000000	1	1	1	0
+scale	0	0	140	0	8	5	0	0
+scale	1	0	140	0	8	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.47297297297297</x>
+<y>138.25</y>
+<right>27.4324324324324</right>
+<bottom>103.6875</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph-throughput-c2	1	1	15/11/18 10:08
+geometry	453	54	537	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	519	404
+<PageGeometry>0.0094518	0.0119332	0.981096	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated throughput(Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-throughput-c2_Nb-clients	Table-throughput-c2_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c2_Nb-clients	Table-throughput-c2_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c2_Nb-clients	Table-throughput-c2_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c2_Nb-clients	Table-throughput-c2_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-throughput-c2_Nb-clients	Table-throughput-c2_Prio	Table-throughput-c2_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-throughput-c2_Nb-clients	Table-throughput-c2_MABU	Table-throughput-c2_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-throughput-c2_Nb-clients	Table-throughput-c2_RSSI	Table-throughput-c2_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-throughput-c2_Nb-clients	Table-throughput-c2_LL	Table-throughput-c2_7	1	8	#000000	1	1	1	0
+scale	0	0	100	0	6	5	0	0
+scale	1	0	100	0	6	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.70945945945946</x>
+<y>98.4375</y>
+<right>27.6689189189189</right>
+<bottom>73.75</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph-throughput-c3	1	1	15/11/18 10:10
+geometry	424	28	537	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	519	404
+<PageGeometry>0.0094518	0.0119332	0.981096	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated throughput(Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-throughput-c3_Nb-clients	Table-throughput-c3_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c3_Nb-clients	Table-throughput-c3_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c3_Nb-clients	Table-throughput-c3_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c3_Nb-clients	Table-throughput-c3_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-throughput-c3_Nb-clients	Table-throughput-c3_Prio	Table-throughput-c3_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-throughput-c3_Nb-clients	Table-throughput-c3_MABU	Table-throughput-c3_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-throughput-c3_Nb-clients	Table-throughput-c3_RSSI	Table-throughput-c3_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-throughput-c3_Nb-clients	Table-throughput-c3_LL	Table-throughput-c3_7	1	8	#000000	1	1	1	0
+scale	0	-10	60	0	8	5	0	0
+scale	1	-10	60	0	8	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.23648648648649</x>
+<y>59.125</y>
+<right>27.1959459459459</right>
+<bottom>41.84375</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph-throughput-c4	1	1	15/11/18 10:15
+geometry	363	33	537	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	519	404
+<PageGeometry>0.0094518	0.0119332	0.981096	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated throughput(Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-throughput-c4_Nb-clients	Table-throughput-c4_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c4_Nb-clients	Table-throughput-c4_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c4_Nb-clients	Table-throughput-c4_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput-c4_Nb-clients	Table-throughput-c4_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-throughput-c4_Nb-clients	Table-throughput-c4_Prio	Table-throughput-c4_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-throughput-c4_Nb-clients	Table-throughput-c4_MABU	Table-throughput-c4_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-throughput-c4_Nb-clients	Table-throughput-c4_RSSI	Table-throughput-c4_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-throughput-c4_Nb-clients	Table-throughput-c4_LL	Table-throughput-c4_7	1	8	#000000	1	1	1	0
+scale	0	-10	70	0	9	5	0	0
+scale	1	-10	70	0	9	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.94594594594595</x>
+<y>69.25</y>
+<right>27.9054054054054</right>
+<bottom>49.5</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<table>
+Table-throughput	20	9	15/11/18 10:17
+geometry	159	18	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	25.55	4.9573859644	25.55	4.9573859644	25.55	4.9573859644	24.15	4.23797597917
+1	10	53.3	6.15951634465	53.3	6.15951634465	53.3	6.15951634465	51.9	5.43842609585
+2	15	82.55	9.85224175505	82.55	9.85224175505	82.55	9.85224175505	81.15	9.06915742503
+3	20	117.55	13.0810361822	117.2998	13.0786545435	113.1501	9.18288498188	116.15	12.2903487501
+4	25	143.6	15.1522071792	142.5003	14.5917544296	126.1502	4.12085243115	142.15	14.301991204
+5	30	169.1	15.4279517241	167.8998	14.328559327	130.0001	0.00171877584344	167.95	15.2101872309
+6	35	192.9	11.0655844129	191.5506	10.4337639531	130.003	0.00339481958283	190.6998	10.5467394267
+7	40	209.65	3.40625782935	205.4011	6.17496835353	129.9986	0.00384279981264	206.65	5.19122201106
+8	45	214.3	0.151820947171	214.1984	0.205423933733	129.998	0.00494293192346	214.5006	0.00092764130999
+9	50	214.5	0	214.4958	0.00185528261998	130.002	0.00499703912332	214.4988	0.00151314031074
+10	55	214.5	0	214.5001	0.0020453611906	129.9941	0.00635989043931	214.5011	0.00277808826353
+11	60	214.5	0	214.4999	0.00448193333284	130.0008	0.00450203083063	214.5018	0.00340386039667
+12	65	214.5	0	214.4974	0.00270451592711	130.0029	0.0077287151843	214.5009	0.00411553330687
+13	70	214.5	0	214.4994	0.00439319910771	129.9922	0.00735874945898	214.4998	0.00461994909062
+14	75	214.5	0	214.5006	0.00407566907391	130.0035	0.00718681514998	214.4968	0.00598233613231
+15	80	214.5	0	214.498	0.00828317427077	129.9953	0.0082834061593	214.4945	0.00407614033125
+16	85	214.5	0	214.4951	0.00669534393441	129.9944	0.00548239713994	214.4917	0.00444405958556
+17	90	214.5	0	214.5047	0.00651858401802	129.96	0	214.4926	0.00544724870003
+18	95	214.5	0	214.5058	0.00794126599479	129.96	0	214.49	0.00515595500368
+19	100	214.5	0	214.5017	0.00753542895925	130	0	214.4873	0.00498202545156
+</data>
+</table>
+<multiLayer>
+Graph-throughput	1	1	15/11/18 10:18
+geometry	325	23	537	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	519	404
+<PageGeometry>0.0094518	0.0119332	0.981096	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average aggregated throughput(Mbs) 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-throughput_Nb-clients	Table-throughput_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput_Nb-clients	Table-throughput_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput_Nb-clients	Table-throughput_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-throughput_Nb-clients	Table-throughput_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-throughput_Nb-clients	Table-throughput_Prio	Table-throughput_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-throughput_Nb-clients	Table-throughput_MABU	Table-throughput_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-throughput_Nb-clients	Table-throughput_RSSI	Table-throughput_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-throughput_Nb-clients	Table-throughput_LL	Table-throughput_7	1	8	#000000	1	1	1	0
+scale	0	0	250	0	6	5	0	0
+scale	1	0	250	0	6	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.70945945945946</x>
+<y>248.4375</y>
+<right>27.6689189189189</right>
+<bottom>186.71875</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<table>
+table_clients_Nb_deficit_classes	20	33	15/11/18 10:22
+geometry	-1	17	1265	509	
+header	1[X]	Prio-c1[Y]	3[Y]	4[Y]	5[Y]	6[Y]	7[Y]	8[Y]	9[Y]	Prio-c2[Y]	11[Y]	12[Y]	13[Y]	14[Y]	15[Y]	16[Y]	17[Y]	Prio-c3[Y]	19[Y]	20[Y]	21[Y]	22[Y]	23[Y]	24[Y]	25[Y]	Prio-c4[Y]	27[Y]	28[Y]	29[Y]	30[Y]	31[Y]	32[Y]	33[Y]
+ColWidth	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Comments																																		
+WindowLabel	/home/kafi/Dropbox/draft_paper/Association_Alex/V4_priority/offline/fix/v1/nb_deficit/plot_clients_Nb_deficit_classes	2
+<data>
+0	5	0	0	0	0	0	0	0.3	0.28403	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0.18594
+1	10	0	0	0	0	0	0	0.3	0.28403	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0.18594
+2	15	0	0	0	0	0	0	0.3	0.28403	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0.18594
+3	20	0	0	0.2	0.37188	0.4	0.49585	0.3	0.28403	0	0	0.2	0.37188	0.8	1.0297	0	0	0	0	0.2	0.37188	0.6	0.79374	0	0	0	0	0	0	0.7	0.87873	0.1	0.18594
+4	25	0	0	0.4	0.41113	1.7	1.14455	0.4	0.41113	0	0	0.4	0.56806	1.4	1.00707	0	0	0	0	0.3	0.39687	1.4	0.92764	0.1	0.18594	0	0	0.1	0.18594	1.9	1.19061	0.1	0.18594
+5	30	0	0	0.6	0.79374	3	1.10874	0.7	0.6229	0	0	0.5	0.74635	3.4	1.04452	0.7	0.6229	0	0	0.3	0.55783	2.3	1.14455	0.7	1.11047	0.5	0	0.2	0.24792	3	1.35793	1	1.14287
+6	35	0	0	1.2	0.95216	5.1	1.65036	1	0.73336	0	0	1.3	1.00133	6	1.59231	0.9	0.75657	0	0	1.8	1.72658	4.5	1.75855	1.2	1.83446	1.8	0	1.4	1.3351	5.1	1.60313	1.1	1.12423
+7	40	0	0	3.3	1.54455	6.4	1.80064	1.7	0.92141	0	0	3	1.20823	7.6	1.4188	2.1	1.15789	0.6	0	2.8	1.89624	5.8	1.48754	2.3	2.18344	4	0	2.8	1.43496	6.7	1.56922	2.5	1.62219
+8	45	0	0	4.8	1.72658	7.1	1.94919	4.1	1.22245	0	0	6.1	1.15789	8.8	1.51314	5.2	1.2334	1.5	0	4.5	1.7143	6.6	1.88405	4	2.33561	8.6	0	5.6	1.4188	7.5	1.52452	4.5	1.30748
+9	50	0	0	6.5	2.07889	8.1	2.04536	5.1	1.39835	0	0	7.2	1.65849	9.3	1.66427	5.9	1.52955	3.2	0	6	1.70869	7.4	1.77918	4.7	2.43309	11.5	0	6.6	1.49783	8.2	1.65849	5.4	1.52326
+10	55	0	0	7.6	2.43545	8.7	2.26971	6.9	1.80597	0	0	9.3	1.88099	9.7	1.51947	8	1.35793	5	0	7.4	2.04066	8.3	1.9013	7.4	2.4037	13.5	0	8.2	1.72658	9.2	1.93634	8	1.9204
+11	60	0	0	9.2	2.33232	9.4	2.20358	8.1	1.92938	0.6	0	10.3	2.13001	10.6	1.59713	9.7	1.41473	8.7	0	8.1	2.35934	8.9	2.08259	8.2	2.34873	15.3	0	10.5	2.32324	10.4	2.22095	9.7	2.33643
+12	65	0	0	10.4	2.41963	10.1	2.22527	9.3	2.26971	2.2	0	12.3	2.18344	11.3	1.79744	11.1	1.84802	12.1	0	10.7	1.81869	10	1.85942	9.6	2.20358	16.5	0	12	2.71586	11.1	2.42359	10.9	2.37557
+13	70	0	0	12.6	2.4668	11	2.11098	10.8	2.12549	2.5	0	13.9	2.08259	12.2	1.83446	12.2	2.01413	14.8	0	12.6	1.77918	11.2	1.91639	11.1	2.19047	17.4	0	13	2.51002	11.8	2.4449	11.9	2.30997
+14	75	0	0	13.4	2.49775	11.8	2.10734	12	1.9204	7.2	0	14.9	2.15511	13.4	2.16844	14.2	2.47612	16.9	0	13.6	1.90433	12	1.87997	12.3	2.16578	18.6	0	13.9	2.67954	12.4	2.5735	13.4	2.70452
+15	80	0	0	14	2.352	12.4	1.94426	13.2	1.65849	8.4	0	15.7	2.35282	13.9	2.27647	15.7	2.28657	18.6	0	14.5	1.98435	12.8	1.93634	13.5	2.11553	20.2	0	15.3	2.64491	13.8	2.69883	15.1	2.73629
+16	85	0	0	15	2.30248	13.2	1.97562	14.6	1.94426	9.7	0	17.1	2.70806	14.8	2.46056	16.9	2.47069	20.4	0	15.4	1.84282	13.5	1.94524	14.5	2.06033	21.5	0	16.2	2.46056	14.5	2.51385	16.1	2.54725
+17	90	0	0	15.7	2.0566	22.5	2.0227	15.5	1.88507	12	0	16.9	2.84639	23.1	2.35934	17.8	2.85111	21.2	0	15.5	1.90534	21.2	2.31579	14.9	2.29328	23.2	0	17	2.4323	23.2	3.14578	17.8	2.47612
+18	95	0	0	17	1.90029	23.5	2.0227	18.2	2.28237	15.9	0	18.3	2.71656	24.9	2.343	20.4	3.19907	22.3	0	16.4	1.66773	22.3	2.20097	16.9	2.13721	24.3	0	18	2.8538	24.3	3.48472	19.4	2.7468
+19	100	0	0	17.6	2.09638	24.9	2.08259	20	2.46368	17.8	0	18.9	2.5921	26.4	2.23818	22.2	2.53742	23.2	0	17.3	1.75417	23.2	2.08903	18.4	2.0594	25.5	0	18	2.52528	25.5	3.39765	20.9	2.83286
+</data>
+</table>
+<table>
+Table-nb-deficit-c1	20	9	15/11/18 10:22
+geometry	103	66	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	0	0	0	0	0	0	0.3	0.28403
+1	10	0	0	0	0	0	0	0.3	0.28403
+2	15	0	0	0	0	0	0	0.3	0.28403
+3	20	0	0	0.2	0.37188	0.4	0.49585	0.3	0.28403
+4	25	0	0	0.4	0.41113	1.7	1.14455	0.4	0.41113
+5	30	0	0	0.6	0.79374	3	1.10874	0.7	0.6229
+6	35	0	0	1.2	0.95216	5.1	1.65036	1	0.73336
+7	40	0	0	3.3	1.54455	6.4	1.80064	1.7	0.92141
+8	45	0	0	4.8	1.72658	7.1	1.94919	4.1	1.22245
+9	50	0	0	6.5	2.07889	8.1	2.04536	5.1	1.39835
+10	55	0	0	7.6	2.43545	8.7	2.26971	6.9	1.80597
+11	60	0	0	9.2	2.33232	9.4	2.20358	8.1	1.92938
+12	65	0	0	10.4	2.41963	10.1	2.22527	9.3	2.26971
+13	70	0	0	12.6	2.4668	11	2.11098	10.8	2.12549
+14	75	0	0	13.4	2.49775	11.8	2.10734	12	1.9204
+15	80	0	0	14	2.352	12.4	1.94426	13.2	1.65849
+16	85	0	0	15	2.30248	13.2	1.97562	14.6	1.94426
+17	90	0	0	15.7	2.0566	22.5	2.0227	15.5	1.88507
+18	95	0	0	17	1.90029	23.5	2.0227	18.2	2.28237
+19	100	0	0	17.6	2.09638	24.9	2.08259	20	2.46368
+</data>
+</table>
+<table>
+Table-nb-deficit-c2	20	9	15/11/18 10:22
+geometry	165	27	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	0	0	0	0	0	0	0	0
+1	10	0	0	0	0	0	0	0	0
+2	15	0	0	0	0	0	0	0	0
+3	20	0	0	0.2	0.37188	0.8	1.0297	0	0
+4	25	0	0	0.4	0.56806	1.4	1.00707	0	0
+5	30	0	0	0.5	0.74635	3.4	1.04452	0.7	0.6229
+6	35	0	0	1.3	1.00133	6	1.59231	0.9	0.75657
+7	40	0	0	3	1.20823	7.6	1.4188	2.1	1.15789
+8	45	0	0	6.1	1.15789	8.8	1.51314	5.2	1.2334
+9	50	0	0	7.2	1.65849	9.3	1.66427	5.9	1.52955
+10	55	0	0	9.3	1.88099	9.7	1.51947	8	1.35793
+11	60	0.6	0	10.3	2.13001	10.6	1.59713	9.7	1.41473
+12	65	2.2	0	12.3	2.18344	11.3	1.79744	11.1	1.84802
+13	70	2.5	0	13.9	2.08259	12.2	1.83446	12.2	2.01413
+14	75	7.2	0	14.9	2.15511	13.4	2.16844	14.2	2.47612
+15	80	8.4	0	15.7	2.35282	13.9	2.27647	15.7	2.28657
+16	85	9.7	0	17.1	2.70806	14.8	2.46056	16.9	2.47069
+17	90	12	0	16.9	2.84639	23.1	2.35934	17.8	2.85111
+18	95	15.9	0	18.3	2.71656	24.9	2.343	20.4	3.19907
+19	100	17.8	0	18.9	2.5921	26.4	2.23818	22.2	2.53742
+</data>
+</table>
+<table>
+Table-nb-deficit-c3	20	9	15/11/18 10:22
+geometry	99	23	1047	472	hidden
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	0	0	0	0	0	0	0	0
+1	10	0	0	0	0	0	0	0	0
+2	15	0	0	0	0	0	0	0	0
+3	20	0	0	0.2	0.37188	0.6	0.79374	0	0
+4	25	0	0	0.3	0.39687	1.4	0.92764	0.1	0.18594
+5	30	0	0	0.3	0.55783	2.3	1.14455	0.7	1.11047
+6	35	0	0	1.8	1.72658	4.5	1.75855	1.2	1.83446
+7	40	0.6	0	2.8	1.89624	5.8	1.48754	2.3	2.18344
+8	45	1.5	0	4.5	1.7143	6.6	1.88405	4	2.33561
+9	50	3.2	0	6	1.70869	7.4	1.77918	4.7	2.43309
+10	55	5	0	7.4	2.04066	8.3	1.9013	7.4	2.4037
+11	60	8.7	0	8.1	2.35934	8.9	2.08259	8.2	2.34873
+12	65	12.1	0	10.7	1.81869	10	1.85942	9.6	2.20358
+13	70	14.8	0	12.6	1.77918	11.2	1.91639	11.1	2.19047
+14	75	16.9	0	13.6	1.90433	12	1.87997	12.3	2.16578
+15	80	18.6	0	14.5	1.98435	12.8	1.93634	13.5	2.11553
+16	85	20.4	0	15.4	1.84282	13.5	1.94524	14.5	2.06033
+17	90	21.2	0	15.5	1.90534	21.2	2.31579	14.9	2.29328
+18	95	22.3	0	16.4	1.66773	22.3	2.20097	16.9	2.13721
+19	100	23.2	0	17.3	1.75417	23.2	2.08903	18.4	2.0594
+</data>
+</table>
+<table>
+Table-nb-deficit-c4	20	9	15/11/18 10:23
+geometry	112	73	1047	472	
+header	Nb-clients[X]	Prio[Y]	1[yEr]	MABU[Y]	3[yEr]	RSSI[Y]	5[yEr]	LL[Y]	7[yEr]
+ColWidth	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0
+Comments										
+WindowLabel		2
+<data>
+0	5	0	0	0	0	0	0	0.1	0.18594
+1	10	0	0	0	0	0	0	0.1	0.18594
+2	15	0	0	0	0	0	0	0.1	0.18594
+3	20	0	0	0	0	0.7	0.87873	0.1	0.18594
+4	25	0	0	0.1	0.18594	1.9	1.19061	0.1	0.18594
+5	30	0.5	0	0.2	0.24792	3	1.35793	1	1.14287
+6	35	1.8	0	1.4	1.3351	5.1	1.60313	1.1	1.12423
+7	40	4	0	2.8	1.43496	6.7	1.56922	2.5	1.62219
+8	45	8.6	0	5.6	1.4188	7.5	1.52452	4.5	1.30748
+9	50	11.5	0	6.6	1.49783	8.2	1.65849	5.4	1.52326
+10	55	13.5	0	8.2	1.72658	9.2	1.93634	8	1.9204
+11	60	15.3	0	10.5	2.32324	10.4	2.22095	9.7	2.33643
+12	65	16.5	0	12	2.71586	11.1	2.42359	10.9	2.37557
+13	70	17.4	0	13	2.51002	11.8	2.4449	11.9	2.30997
+14	75	18.6	0	13.9	2.67954	12.4	2.5735	13.4	2.70452
+15	80	20.2	0	15.3	2.64491	13.8	2.69883	15.1	2.73629
+16	85	21.5	0	16.2	2.46056	14.5	2.51385	16.1	2.54725
+17	90	23.2	0	17	2.4323	23.2	3.14578	17.8	2.47612
+18	95	24.3	0	18	2.8538	24.3	3.48472	19.4	2.7468
+19	100	25.5	0	18	2.52528	25.5	3.39765	20.9	2.83286
+</data>
+</table>
+<multiLayer>
+Graph-nb-deficit-c1	1	1	15/11/18 10:26
+geometry	398	9	519	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	501	404
+<PageGeometry>0.00978474	0.0119332	0.980431	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average number of clients in deficit 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-nb-deficit-c1_Nb-clients	Table-nb-deficit-c1_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c1_Nb-clients	Table-nb-deficit-c1_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c1_Nb-clients	Table-nb-deficit-c1_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c1_Nb-clients	Table-nb-deficit-c1_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-nb-deficit-c1_Nb-clients	Table-nb-deficit-c1_Prio	Table-nb-deficit-c1_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-nb-deficit-c1_Nb-clients	Table-nb-deficit-c1_MABU	Table-nb-deficit-c1_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-nb-deficit-c1_Nb-clients	Table-nb-deficit-c1_RSSI	Table-nb-deficit-c1_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-nb-deficit-c1_Nb-clients	Table-nb-deficit-c1_LL	Table-nb-deficit-c1_7	1	8	#000000	1	1	1	0
+scale	0	-5	30	0	8	5	0	0
+scale	1	-5	30	0	8	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.24137931034483</x>
+<y>29.671875</y>
+<right>27.7586206896552</right>
+<bottom>21.03125</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph-nb-deficit-c2	1	1	15/11/18 10:31
+geometry	518	35	519	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	501	404
+<PageGeometry>0.00978474	0.0119332	0.980431	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average number of clients in deficit 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-nb-deficit-c2_Nb-clients	Table-nb-deficit-c2_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c2_Nb-clients	Table-nb-deficit-c2_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c2_Nb-clients	Table-nb-deficit-c2_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c2_Nb-clients	Table-nb-deficit-c2_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-nb-deficit-c2_Nb-clients	Table-nb-deficit-c2_Prio	Table-nb-deficit-c2_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-nb-deficit-c2_Nb-clients	Table-nb-deficit-c2_MABU	Table-nb-deficit-c2_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-nb-deficit-c2_Nb-clients	Table-nb-deficit-c2_RSSI	Table-nb-deficit-c2_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-nb-deficit-c2_Nb-clients	Table-nb-deficit-c2_LL	Table-nb-deficit-c2_7	1	8	#000000	1	1	1	0
+scale	0	-5	30	0	8	5	0	0
+scale	1	-5	30	0	8	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.72413793103448</x>
+<y>29.78125</y>
+<right>28.2413793103448</right>
+<bottom>21.140625</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph-Nb-deficit-c3	1	1	15/11/18 10:34
+geometry	449	39	519	467	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	501	404
+<PageGeometry>0.00978474	0.0119332	0.980431	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average number of clients in deficit 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-nb-deficit-c3_Nb-clients	Table-nb-deficit-c3_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c3_Nb-clients	Table-nb-deficit-c3_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c3_Nb-clients	Table-nb-deficit-c3_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c3_Nb-clients	Table-nb-deficit-c3_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-nb-deficit-c3_Nb-clients	Table-nb-deficit-c3_Prio	Table-nb-deficit-c3_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-nb-deficit-c3_Nb-clients	Table-nb-deficit-c3_MABU	Table-nb-deficit-c3_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-nb-deficit-c3_Nb-clients	Table-nb-deficit-c3_RSSI	Table-nb-deficit-c3_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-nb-deficit-c3_Nb-clients	Table-nb-deficit-c3_LL	Table-nb-deficit-c3_7	1	8	#000000	1	1	1	0
+scale	0	-5	30	0	8	5	0	0
+scale	1	-5	30	0	8	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.48275862068966</x>
+<y>29.453125</y>
+<right>28</right>
+<bottom>20.8125</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph-nb-deficit-c4	1	1	15/11/18 10:38
+geometry	445	35	519	467	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	501	404
+<PageGeometry>0.00978474	0.0119332	0.980431	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Average clients number 	Average number of clients in deficit 			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table-nb-deficit-c4_Nb-clients	Table-nb-deficit-c4_LL	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c4_Nb-clients	Table-nb-deficit-c4_RSSI	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c4_Nb-clients	Table-nb-deficit-c4_MABU	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+curve	Table-nb-deficit-c4_Nb-clients	Table-nb-deficit-c4_Prio	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Table-nb-deficit-c4_Nb-clients	Table-nb-deficit-c4_Prio	Table-nb-deficit-c4_1	1	8	#0000ff	1	1	1	3
+ErrorBars	1	Table-nb-deficit-c4_Nb-clients	Table-nb-deficit-c4_MABU	Table-nb-deficit-c4_3	1	8	#00ff00	1	1	1	2
+ErrorBars	1	Table-nb-deficit-c4_Nb-clients	Table-nb-deficit-c4_RSSI	Table-nb-deficit-c4_5	1	8	#ff0000	1	1	1	1
+ErrorBars	1	Table-nb-deficit-c4_Nb-clients	Table-nb-deficit-c4_LL	Table-nb-deficit-c4_7	1	8	#000000	1	1	1	0
+scale	0	-5	30	0	8	5	0	0
+scale	1	-5	30	0	8	5	0	0
+scale	2	0	105	0	7	5	0	0
+scale	3	0	105	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>3.0075187969925</x>
+<y>28.829431438127</y>
+<right>32.781954887218</right>
+<bottom>25.4347826086957</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>

@@ -1,0 +1,90 @@
+\documentclass[a4paper]{article}
+
+%\usepackage[]{algorithm2e}
+\usepackage[ruled,vlined]{algorithm2e}
+%\usepackage{times}
+%\usepackage{fancyhdr,graphicx,amsmath,amssymb}
+\usepackage{algorithmic}
+
+\begin{document}
+
+%and a simple example, taken from the v4.01 manual, is
+%{\fontsize{8pt}{8pt}\selectfont
+%\algsetup{linenosize=\tiny}
+\algsetup{linenosize=\small}
+ \scriptsize
+\begin{algorithm}%[H]
+\caption{{\bf Online Association Algorithm} \label{onlineAssociationAlgorithm}}
+%\SetAlFnt{\small}
+\begin{scriptsize}
+
+ \KwIn{User $i$ with time demand $\{T_{i1},T_{i2},...,T_{iN}\}$ and priority $w_i$}
+ \KwOut{user association $\{x_{i1},x_{i2},...x_{iN}\}$}
+ {\bf Initialisation:} $x_{ij}=0, \quad \forall 1\leq j \leq N$ \;
+ -\eIf{WaitingWork().empty==False and WaitingWork().QueueHead.priority $\geq w_i$}{
+      WaitingWork.add($T_{i1},T_{i2},...,T_{iN};w_i$) 
+ }{
+    $j_{min}=argmin_j([\sum_{k=1}^{M}x_{kj}.T_{kj}]+T_{ij})$ \tcc{choose the less loaded AP}
+    \eIf{[($\sum_{k=1}^{M}x_{kj_{min}}.T_{kj_{min}})+T_{ij_{min}}]\leq 1$}{ 
+       $x_{ij_{min}}=1$ \;
+    }{
+       {\tiny\tcc{Time demand exceeds the remaining available time}}      
+       ChooseAP=1, chooseDetail=priorityAllowDesassociate(AP1,$T_{i1},w_i$) \;
+       \For{j=1 to N}{
+          k=priorityAllowDesassociate($AP_j,T_{ij},w_i$) \;
+          \eIf{k.response==True}{
+             {\tiny\tcc{The current candidate AP has less priority clients to be removed}}
+             \eIf{chooseDetail.response==False}{
+               {\tiny \tcc{It's the first available AP }}
+                chooseAP=j, chooseDetail=k \; %{\bfJump:} suivant \; 
+             }{
+                \eIf{k.directDisassociate==True}{
+                   \eIf{chooseDetail.directDisassociate==False}{
+                     {\tiny \tcc{The First available AP allowing direct disassociation}}
+                      chooseAP=j, chooseDetail=k \;
+                   }{
+                      {\tiny\tcc{choose the better AP through the less priority disassociated clients}}
+					  \If{last-elem.prio(k)$>$ last-elem.prio(chooseDetail)}
+					  {
+					    chooseAP=j, chooseDetail=k \;
+                      }
+                   }
+                }
+                {
+                
+                {\tiny\tcc{choose the better AP through the less priority disassociated clients}}
+                 \If{(chooseDetail.directDisassociate==False) and (last-elem.prio(k)$>$ last-elem.prio(chooseDetail))}
+					  {
+					    chooseAP=j, chooseDetail=k \;
+                      }
+                              
+                }
+             }
+          }{
+			$R_1=k.period *c[i][j]$;\\
+			$R_2=chooseDetail.period * c[i][chooseAP]$;\\
+					              
+              \If{(chooseDetail.response==False and  $R_1 > R_2$)}{
+                  {\tiny\tcc{The total demand of the current client is not available but currently, this is the better AP}}
+                  chooseAP=j, chooseDetail=k \;
+              }               
+          }
+       }
+       \eIf{chooseDetail.response==False}{
+          {\tiny\tcc{The current client could not be associated immediately, because higher priority clients could not be disassociated, and should be put on the waiting queue. The client could choose to start working with the available current period}}
+          WaitingWork($T_{i1},T_{i2},...T_{iN},w_i$) {\tiny\tcc{The waiting clients are put in a priority based queue, for the same priority clients a FIFO is used}}
+       }{
+          \eIf{chooseDetail.DirectDisassociate==False}{          
+              {\tiny\tcc{less priority clients exist, but should be disassociated when they finish the current critical task, the client is put in the queue and associated as possible, or could choose to start working with the chosen AP with the current available period}}
+              WaitingWork($T_{i1},T_{i2},...T_{iN},w_i$)
+          }{
+             Disassociate(chooseAP,ChooseDetail.index) {\tiny\tcc{Disassociate clients from the current index until the tail of the Queue of clients}}
+             j=chooseAP, $x_{ij}=1$ \; 
+          }
+       }
+    }
+ }
+ \medskip
+\end{scriptsize} 
+\end{algorithm}
+\end{document}

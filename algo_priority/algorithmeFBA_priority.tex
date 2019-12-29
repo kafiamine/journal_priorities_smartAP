@@ -1,0 +1,56 @@
+\documentclass[a4paper]{article}
+
+%\usepackage[]{algorithm2e}
+\usepackage[ruled,vlined]{algorithm2e}
+%\usepackage{times}
+%\usepackage{fancyhdr,graphicx,amsmath,amssymb}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+%\usepackage[noend]{algpseudocode}
+
+\begin{document}
+
+%and a simple example, taken from the v4.01 manual, is
+
+\begin{algorithm}%[H]
+
+\caption{{\bf {\scriptsize PF2D2BA (Priority First, Fairness and Data Demand based Bandwidth Allocation)}} \label{Algorithm_FBA_prio}}
+\begin{scriptsize}
+ \KwIn{T, \{$\tilde{T_1},\tilde{T_2},... \tilde{T_m}$\}, \{$w_1,w_2,...w_m$\}}
+ \KwOut{\{$ \tilde{t_1},\tilde{t_2},... \tilde{t_m}$\}}
+% \KwData{this text}
+% \KwResult{how to write algorithm with \LaTeX2e }
+ -sort $\tilde{T_i}$ according to priority levels from the highest, for each level in ascending order\;
+ -{\bf Initialisation:} $T_{Total}=T$, $B_{prio}$= Set indexes CurrentPrio, \\ B= Set indexes AllClients - $B_{prio}$, $A=\emptyset $ , $k_{Total}=k_{prio}=1$, CountPrio=nbClients($B_{prio}$), $m_{prio}$=index last client (currentPrio)\;
+ - $t_{B_{prio}}=T_{Total}/CountPrio$\; 
+ - \While{$k_{Total} \leq m $ }{
+     \While{$k_{prio} \leq m_{prio} $ }{
+       \eIf{$\tilde{T}_{k_{prio}} > t_{B_{prio}} $}{
+           Break\;
+       }{
+          $A= A+\{k_{prio}\}, B_{prio}= B_{prio}-\{k_{prio}\} , \tilde{t}_{k_{prio}}=\tilde{T}_{k_{prio}}, T_{Total}=T_{Total}- \tilde{T}_{k_{prio}}$, CountPrio=CountPrio-1, $k_{prio}=k_{prio}+1, k_{Total}=k_{Total} +1$, \ 
+          $t_{B_{prio}}=T_{Total}/CountPrio $ \;
+       }
+     } 
+     
+     \eIf{$k_{prio} > m_{prio} $}{
+         CurrentPrio=NextPrio, $B_{prio}$= Set indexes CurrentPrio, B= B- $B_{prio}$ , $m_{prio}$ =index last client (currentPrio), CountPrio=nbClients($B_{prio}$) \;
+     }{
+        \For {i $\in B_{prio}$}{
+           $\tilde{t}_{i}=t_{B_{prio}}, T_{Total}=T_{Total}-t_{B_{prio}} $, 
+        }
+         \If{$T_{Total}=0$ and $ B \neq \emptyset $}{
+            \For {$j = k_{prio}$ to $m$}{
+                $\tilde{t}_{j}=0$, AddWaitingWork($T_{j1},T_{j2},...,T_{jM}, w_j$) \;
+            }
+         }
+		 break\;	         
+         
+     }
+  }
+\end{scriptsize}      
+
+\end{algorithm}
+
+
+\end{document}

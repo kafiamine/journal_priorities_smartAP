@@ -1,0 +1,34 @@
+\documentclass[a4paper]{article}
+
+%\usepackage[]{algorithm2e}
+\usepackage[ruled,vlined]{algorithm2e}
+%\usepackage{times}
+%\usepackage{fancyhdr,graphicx,amsmath,amssymb}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+%\usepackage[noend]{algpseudocode}
+
+\begin{document}
+
+
+\begin{algorithm}%[H]
+\begin{scriptsize}
+\caption{{\bf {\scriptsize CAPAB (Client Association with Priority and Aggregated Bandwidth)}} \label{Algorithm_MABU_prio}}
+ \KwIn{$ \{T_{11},T_{12},... T_{NM}\}, \{w_1,w_2,...w_N\}, \{d_1,d_2,...d_N\} $} 
+ \KwOut{\{$ x_{11},x_{12},... x_{NM}$\}}
+% \KwData{this text}
+% \KwResult{how to write algorithm with \LaTeX2e }
+ -{\bf Initialisation:} $x_{ij}=0, \forall i \in \{1,...N \}, \forall j \in \{ 1,...M \} $\;
+ -Sort the clients according to priority levels from the highest, for each level in descending order of bandwidth demand\;
+ - \For {each sorted user $i$}{
+      $j_{min}=argmin_j(\sum_{k=1}^{i-1}x_{kj}. T_{kj}+T_{ij})$\;
+      $x_{ij_{min}}=1$ \;
+    }
+    \For {each $AP_j$}{
+		use Algorithm PF2D2BA to schedule clients transmission time\;
+	} 
+\end{scriptsize}    
+\end{algorithm}
+
+
+\end{document}
